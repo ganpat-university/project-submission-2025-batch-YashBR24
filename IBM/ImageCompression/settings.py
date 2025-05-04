@@ -167,3 +167,6 @@ TEMPLATES = [
         },
     },
 ]
+
+
+HUGGINGFACE_API_TOKEN = "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" 
